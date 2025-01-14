@@ -41,7 +41,7 @@ Aplikasi ini digunakan untuk mencatat, mengelola, dan menampilkan daftar tugas d
    - Isi nama tugas di input "Tugas".
    - Centang checkbox "Kelompok" jika tugas termasuk tugas kelompok.
    - Pilih tanggal deadline menggunakan input tanggal.
-   - Tambahkan catatan di input "Catatan" (opsional).
+   - Tambahkan catatan di input "Catatan" .
    - Klik tombol **Tambah Tugas** untuk menyimpan data tugas.
 
 2. **Melihat Daftar Tugas**:
