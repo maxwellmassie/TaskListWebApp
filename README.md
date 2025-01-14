@@ -49,7 +49,7 @@ Aplikasi ini digunakan untuk mencatat, mengelola, dan menampilkan daftar tugas d
 
 3. **Mengedit atau Menghapus Tugas**:
    - Gunakan tombol yang ada di kolom "Aksi" untuk mengedit atau menghapus tugas.
-   - klik Simpan Tugas
+   - klik Simpan Tugas setelah mengedit tugas
 
 ## Instalasi dan Konfigurasi
 
