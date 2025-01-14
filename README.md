@@ -1,4 +1,4 @@
-# Aplikasi Manajemen Tugas
+# WebAplikasi Manajemen Tugas
 
 Aplikasi ini digunakan untuk mencatat, mengelola, dan menampilkan daftar tugas dengan beberapa informasi terkait seperti  Tugas(matakuliah) kelompok, deadline, dan catatan tambahan.
 
