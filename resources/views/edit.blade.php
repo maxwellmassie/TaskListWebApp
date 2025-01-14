@@ -51,7 +51,7 @@
 </head>
 <body>
     <section id="tugasForm" class="container mt-5">
-        <h2 class="text-center">List Tugas</h2>
+        <h2 class="text-center" style="text-align: center;">Edit Tugas</h2>
             <form id="tugasForm" action="{{ route('update-tugas', $task->id) }}" method="POST">
                 @csrf
                 <input type="text" id="tugas" name="tugas" placeholder="Tugas" value="{{ $task->tugas }}" required>

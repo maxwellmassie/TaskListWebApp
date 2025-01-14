@@ -97,7 +97,8 @@
 <body>
     <!-- List Tugas -->
     <section id="tugasForm" class="container mt-5">
-        <h2 class="text-center">List Tugas</h2>
+    <h2 class="text-center" style="text-align: center;">List Tugas</h2>
+
             <form id="tugasForm" action="{{ route('tugas') }}" method="POST">
                 @csrf
                 <input type="text" id="tugas" name="tugas" placeholder="Tugas" required>
