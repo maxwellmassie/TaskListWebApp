@@ -2,6 +2,15 @@
 
 Aplikasi ini digunakan untuk mencatat, mengelola, dan menampilkan daftar tugas dengan beberapa informasi terkait seperti  Tugas(matakuliah) kelompok, deadline, dan catatan tambahan.
 
+## Kelompok
+
+- **Nama Anggota**:
+  1. Aria Riski Ramadhan
+  2. Gold Stein Maxwell Massie
+  3. Rafly Maulana Zaky
+
+
+
 ## Fitur
 
 1. **Form Tambah Tugas**:
@@ -21,7 +30,7 @@ Aplikasi ini digunakan untuk mencatat, mengelola, dan menampilkan daftar tugas d
 ## Teknologi yang Digunakan
 
 - **Frontend**:
-  -Laravel PHP Artisan
+  - Laravel PHP Artisan
   
 - **Backend**:
   - MySQL Xampp sebagai database untuk menyimpan data tugas.
